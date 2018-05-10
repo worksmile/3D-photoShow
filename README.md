@@ -8,6 +8,6 @@
 3=====bottom
 0=====left
 ##### 2.涉及到css3的一些新属性
-transform，animation，@keyframes关键帧，rotate3d 3D旋转
+transform，animation，@keyframes关键帧，rotate3d 3D旋转​
 
 
